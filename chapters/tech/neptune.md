@@ -14,6 +14,7 @@ Nearly every sphere of life is largely dependent on the efficiency of big data t
 Using Neptune big data technology is always a rewarding experience because it offers the combined satisfaction of speed and accuracy. First time users who are accustomed to the conventional systems will experience a significant difference when using this technological solution because of the faster turnaround of tasks and remarkable efficiency. Working with conventional technologies is usually stressful because it makes it difficult to complete the assigned tasks within the set deadlines. One of the defining strengths of this technology is that it functions with greater levels of output, which means that the user can accomplish multiple varieties of tasks without strenuous thinking or physical efforts. Overall, Neptune has proven to be an outstanding innovation that has truly revolutionized the workplace environment.
 
 References
+
 Harkness, T. (2017). Big data: Does size matter?. London: Bloomsbury Sigma.
 
 
